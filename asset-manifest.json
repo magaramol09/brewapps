@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/brewapps/static/css/main.07940bb8.css",
+    "main.js": "/brewapps/static/js/main.52c78293.js",
+    "index.html": "/brewapps/index.html",
+    "main.07940bb8.css.map": "/brewapps/static/css/main.07940bb8.css.map",
+    "main.52c78293.js.map": "/brewapps/static/js/main.52c78293.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07940bb8.css",
+    "static/js/main.52c78293.js"
+  ]
+}
