@@ -21,7 +21,7 @@ export default function Main() {
                     <span className="main-routing-heading-item"> <Link  to="/"> 24h Trending </Link> </span>
                 </div>
                 <div className="col-4 col-lg-2 main-routing-heading">
-                   
+                <i className="fa-solid fa-fire-flame-curved" i />
                     <span className="main-routing-heading-item"><Link to="/teufzer"> letest show </Link> </span>
                 </div>
                 <div className="col-4 col-lg-2 main-routing-heading">
@@ -44,7 +44,7 @@ export default function Main() {
             </div>
 
         </div>
-        
+
     </>
     )
 }
