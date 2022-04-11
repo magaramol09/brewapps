@@ -13,7 +13,7 @@ export default function Teufzer() {
           const {id,img,title,info}=curEle;
 
           return (
-            <div className="col-12 col-lg-4" id={id}>
+            <div className="col-12 col-lg-4" key={id}>
               <div className="row ">
                 <div className="col-12 col-lg-12 " >
                   <div className="col-main-card">

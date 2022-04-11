@@ -21,9 +21,7 @@
 }
 
 /* -----------------------> Main section Css  Start-----------------------> */
-.main-section  {
-  /* border: 2px solid red; */
-}
+
 .main-section h3 {
   font-family: var(--heading-font);
   text-transform: capitalize;
@@ -69,15 +67,15 @@
 }
 .main-routing-heading a {
   text-decoration: none ;
-  color: black;
+  color: var(--color);
 }
 .main-routing-heading:hover > span a {
   color:white !important;
-  background-color: black !important;
+  background-color: var(--color) !important;
 }
 
 .main-routing-heading:hover {
-   background-color:black;
+   background-color:var(--color);
 
 }
 .main-routing-heading:hover > .fa-fire-flame-curved {
@@ -90,22 +88,19 @@
    background-color: black;
 }
 
-
-
 .main-routing-heading-item{
   padding-left:0.8rem;
   text-transform: capitalize;
   font-family: var(--heading-font);
-
 }
 
 /* -----------------------> Main section Css  End-----------------------> */
 
 
 
-/* -----------------------> Main-card section Css card-----------------------> */
+/* -----------------------> Main-card section Css Start-----------------------> */
 .main-section-card{
-  margin-top: 1rem;
+  margin-top: .5rem;
   
 }
 .col-main-card{
@@ -150,12 +145,12 @@ display: inline-block;
 
 }
 
+/* -----------------------> Main-card section Css end-----------------------> */
 
 
 
 
-
-/* -----------------------> media -----------------------> */
+/* -----------------------> media Q -----------------------> */
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
