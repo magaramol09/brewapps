@@ -36,8 +36,12 @@ export default function Main() {
                     <i class="fa-solid fa-fire-flame-curved" i />
                     <span className="main-routing-heading-item"><a href=""> in void </a></span>
                 </div>
+
             </div>
+
         </div>
+
+
     </>
     )
 }

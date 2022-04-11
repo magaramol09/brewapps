@@ -112,6 +112,10 @@
   position: relative !important;
   cursor: pointer;
 }
+.col-main-card img{
+  width: 340px;
+  height: 200px;
+}
 
 .col-main-card:hover > .img-info { 
   height:70px;
@@ -127,7 +131,6 @@ display: inline-block;
    position: absolute;
    width: 100%;
    top:175px;
-
 }
 .img-info h3{
   background-color: black;
